@@ -1,6 +1,6 @@
-### Python Utils
+# Python Utils
 
-# WebImport
+## WebImport
 Useful for importing lots of web libraries without needing to download them.
 This works by caching it
 ```py
